@@ -1,6 +1,7 @@
 const api = require("./api");
 const coordinates = require("./coordinates.json");
 const coordinatesLtr = require("./coordinatesLtr.json");
+const coordinatesChildCare = require("./coordinatesChildCare.json");
 // const fs = require("fs");
 
 const parsePhu = (data) => {
